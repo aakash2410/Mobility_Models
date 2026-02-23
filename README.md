@@ -1,3 +1,7 @@
+
+<img width="1441" height="837" alt="Screenshot 2026-02-23 at 12 46 56 PM" src="https://github.com/user-attachments/assets/f7621a5f-1d51-4808-b4e2-aae15750585e" />
+
+
 # MaaS Movement: ULTRA Bill Simulation
 
 This repository contains the full-stack simulation codebase designed to stress-test the hypotheses presented in Chandra Vikas's **MaaS Movement Business Model** (the ULTRA Bill). It leverages a Graph Neural Network (GNN) backend to mathematically model the transition from a city dominated by Privately Owned Vehicles (POV) to a highly optimized, Superaggregator-controlled public transit fleet.
