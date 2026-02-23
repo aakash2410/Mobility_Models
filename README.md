@@ -51,3 +51,12 @@ The `react-force-graph` component ingests the physical `mumbai_network.json` and
 *   **Real-time Particle Flow:** The UI leverages directional particles traversing the edges to visually encode the simulation state:
     *   **Baseline POV (Low Reduction):** Graph edges saturate with thick, slow-moving **RED** particles, visually representing chaotic traffic gridlock and high conflict density.
     *   **ULTRA MaaS (High Reduction + Motorways):** As the Superaggregator takes over, chaotic noise is abolished. Red particles vanish, replaced by sparse, hyper-fast **NEON CYAN** particles smoothly streaming predominantly along the wider Motorway arteries, visually proving the mathematical efficiency of centralized public transit.
+
+---
+
+## III. Future Scope
+
+While the current simulation accurately evaluates the functional topography of the South Bombay bounding box (including the wider arterial areas), the model's true potential lies in scaling to the larger metropolitan grid.
+
+*   **City-Wide Topological Expansion:** Map the entirety of Mumbai and the broader Mumbai Suburban district via OpenStreetMap to capture realistic macro-level inter-borough transit constraints.
+*   **Model Re-training on Expanded Data:** Re-train the Graph Neural Network pipeline across the significantly larger node and edge matrices. This will confirm that the Superaggregator's GAT attention routing and SAGE neighborhood aggregation logically scale to handle massive, city-wide transit demand loads without degrading efficiency.
